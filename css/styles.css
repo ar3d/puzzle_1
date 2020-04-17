@@ -1,6 +1,6 @@
 #canvasParent {
     margin: 10px;
-    width: calc(100vw);
+    width: 100%;
 }
 
 #settingBtn {

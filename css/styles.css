@@ -9,9 +9,10 @@
     top: 0.5em;
     right: 0.5em;
     cursor: pointer;
-}
+    }
 
-#settingBtn:hover {
+#settingBtn:disabled,
+button[disabled] {
     opacity: 0.5;
 }
 

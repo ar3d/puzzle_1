@@ -7,13 +7,14 @@
     position: fixed;
     top: 0.5em;
     right: 0.5em;
-    cursor: disabled;
+    cursor: pointer;
 }
 
 #settingBtn:hover {
     opacity: 0.5;
-    cursor: disabled;
 }
+
+
 
 h1 {
     margin: 0;

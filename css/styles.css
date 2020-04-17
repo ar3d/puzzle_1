@@ -61,7 +61,7 @@ h1 {
 body {
     font-family: Roboto, Arial, sans-serif;
     background: #ded7d7;
-    color: #000;
+    color: #ded7d7;
     transition: all .3s;
 }
 

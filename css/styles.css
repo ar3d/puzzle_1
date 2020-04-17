@@ -12,6 +12,7 @@
 
 #settingBtn:hover {
     opacity: 0.5;
+    cursor: disabled;
 }
 
 h1 {

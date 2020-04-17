@@ -1,6 +1,6 @@
 #canvasParent {
-    margin: 10px;
-    height: calc(100vh - 40px);
+    margin: 11px;
+    height: calc(100vh - 1px);
 }
 
 #settingBtn {

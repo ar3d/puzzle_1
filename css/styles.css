@@ -1,12 +1,8 @@
 #canvasParent {
     margin: 1px;
     height: calc(100vh - 1px);
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    justify-content: center;
+    align-items: center;
 }
 
 #settingBtn {
